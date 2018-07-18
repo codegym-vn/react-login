@@ -13,7 +13,7 @@
 - Bao gồm logo của CodeGym, username, password, forgot password, button sign in...
 - Giao diện tham khảo như ảnh
 
-![login_codegym]()
+![login_codegym](https://github.com/anhtbok92/StyleReactNativeTraining/blob/master/login.PNG)
 
 # Hướng dẫn
 
